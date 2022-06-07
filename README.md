@@ -9,4 +9,18 @@ This project presents a case scenario where a mystery shopping company anti-frau
 
 ![High Level Overview Design](./screenshots/high_level_overview.png)
 
+### Data Warehouse Design
+
+![Star Schema](./screenshots/star_schema.png)
+
+### ETL Process (Pentaho)
+
+#### Pentaho Jobs
+
+![Pentaho Jobs](./screenshots/pentaho_jobs.png)
+
+### Pentaho ETL
+
+![Pentaho ETL Pecesses](./screenshots/pentaho_etl.png)
+
 
