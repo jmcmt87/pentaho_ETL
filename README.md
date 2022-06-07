@@ -11,6 +11,8 @@ This project presents a case scenario where a mystery shopping company anti-frau
 
 ### Data Warehouse Design
 
+Tabla Hechos = Fact Table
+
 ![Star Schema](./screenshots/star_schema.png)
 
 ### ETL Process (Pentaho)
